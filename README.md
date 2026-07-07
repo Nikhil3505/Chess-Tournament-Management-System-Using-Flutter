@@ -444,3 +444,4 @@ $env:Path += ";C:\tools\flutter\bin"
 | Flutter + Riverpod frontend | ✅ |
 | PostgreSQL database | ✅ |
 | GitHub repository | ✅ (after push) |
+
