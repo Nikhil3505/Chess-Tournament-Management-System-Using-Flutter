@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node
+node_modules/
+
+# Flutter/Dart
+frontend/chess_app/.dart_tool/
+frontend/chess_app/.packages
+frontend/chess_app/.pub-preload-cache
+frontend/chess_app/build/
+frontend/chess_app/.metadata
+
+# Environment
+.env
+backend/.env
