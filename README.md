@@ -444,12 +444,3 @@ $env:Path += ";C:\tools\flutter\bin"
 | Flutter + Riverpod frontend | ✅ |
 | PostgreSQL database | ✅ |
 | GitHub repository | ✅ (after push) |
-
----
-
-## Submission
-
-1. Push the code to a GitHub repository
-2. Deploy the backend to a hosting service (optional)
-3. Submit the repository URL and/or demo video to: **workkevin d75@gmail.com**
-4. Deadline: **13 July 2026, 10:00 AM**
